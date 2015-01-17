@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+}
+
+.slider {
+    text-align: center;   
+}
+
+.card {
+    text-align: center;
+    width: 90vw;
+    height: 50vh;
+    background-color: #2F3030;
+}
